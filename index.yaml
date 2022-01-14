@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://dethmaguk.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-01-14T11:24:47.245836796Z"
